@@ -1,0 +1,30 @@
+```
+title: What's it all about?
+
+layout: page
+pageOrder: 7
+includenInNavs: ["about"]
+navtitle: Mission
+```
+
+<div class="row" >
+	<section class="small-12 large-9 columns">
+		<p>Recalling all the United Nations General Assembly resolutions and outcomes of summits and conferences related to policies on global public health, as well as identified by the Royal Academy of Science International Trust (RASIT) Sustainable Development Studies Center on the Global Strategy for the prevention and control of diseases; andTaking note of the reports of the World Health Organization and the United Nations Secretary-General on health, morbidity, mortality and development and on the monitoring of population programs, and having considered the report of the Commission on Intellectual Property Rights, Innovation and Public Health.</p>
+		<p>UNID is formed to bridge a critical gap in global efforts to address sustainable development and prosperity around the world.UNID’s approach is to leverage resources and culture of entrepreneurship and innovation and work with national, regional, and global thought leaders and intellectuals to catalyze positive change that will reach all people of a given region.</p>
+		<p>UNID take on the topic of the crucial role that science can play in solving real world problems with science acting as lever for change through both research and knowledge generation for policy guidance, and the development of innovative and appropriate technologies.</p>
+		<p>
+			In collaboration with like-minded partners and investors, UNID’s ambitious goals are to establish premier Women’s Health Institute and Public Health and Biomedical Research Institute that will contribute in a significant way towards the scientific and technological growth as well as contribution to social development worldwide.
+		</p>
+		<h3>UNID aims to:</h3>
+		<ul>
+			<li>Empower science for sustainable development</li>
+			<li>Strengthen science innovation systems in developing countries</li>
+			<li>Ensure that new technologies are accessible to science for development</li>
+			<li>Design and deliver research for impact</li>
+			<li>Raise the profile of science in governments</li>
+		</ul>
+		<p>
+			UNID will collaborate with leading scientists and academic institutions and to bring the fruits of their research and development efforts closer to industries and business establishments for societal benefit.
+		</p>
+	</section>
+</div>

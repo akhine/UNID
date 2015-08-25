@@ -1,0 +1,22 @@
+---
+title: The Foundation Board
+layout: page
+
+pageOrder: 3
+includenInNavs: []
+navtitle: The Foundation Board
+---
+
+<div class="row" >
+	<section class="small-12 large-9 columns">
+		<p>	The Foundation Board governs the UNID and acts as its guardian of its mission, values and strategy.
+			The UNID’s programs and activities are managed by its executive team.
+			Led by the Chief Executive Officer Mr. Turkay Ufuk Eren. The executive team comprises of exceptional individuals from different areas of life and various different nationalities.
+		</p>
+	</section>
+	<nav class="small-12 large-3 columns linklist">
+		<% for document in @getCollection('leadership').toJSON(): %>
+			<li><a href="<%= document.url %>"><%= document.title %></a></li>
+		<% end %>
+	</nav>
+</div>

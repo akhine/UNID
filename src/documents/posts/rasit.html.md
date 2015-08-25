@@ -1,0 +1,19 @@
+```
+title: Royal Academy of Science International Trust (RASIT)
+layout: post
+tags: ['dummyTagtoShowHowRelatedPluginMatchesPostsWithTheSameTag']
+```
+
+The definition of Women’s Health in many countries regrettably remains as primary focus on reproductive health.  There is a remarkable shortage of knowledge at academia, healthcare professionals, public, and policy-maker levels on the sex differences in the prevalence, progression, and outcome of numerous diseases and conditions, including diabetes, cardiovascular diseases, brain disorders, infectious diseases, and cancer.  The inappropriate knowledge is not only affecting women, but also men and the whole society, due to the absence of understanding the role of sex and gender factors in health and disease.
+
+Despite some progress made in women’s health in the last decade, for millions of women and girls throughout the world the right of everyone to the enjoyment of the highest attainable standard of physical and mental health, including, access to medicines, vaccines, commodities, equipment, other supplies, comprehensive primary health-care services, health promotion and disease prevention, still remains a distant goal.  In many cases, especially for those living in poverty and populations in vulnerable or marginalised situations, this goal is becoming increasingly remote.
+
+There is an urgent need to promote new thinking on the mechanisms that support innovation in women’s health programs. Further, it is essential to recognise the importance and need of science and technology for development and the critical role of science, technology and innovation in addressing global challenges and in realising sustainable development to enhance health, and reduce the burdens of illness and disability.
+
+The growth of knowledge in the health sciences has greatly expanded the capabilities of medicine and public health. Rising expectations of better health and of improved quality of life for all people now include good health care as a universal human right and as a goal of RASIT in serving societies. The provision of such care places increasingly heavy demands on health services and on their complex relations with other sectors of society. The resulting expansion of requirements for health manpower, i.e. the requirements for health professionals to provide increasingly complex care in a high quality, compassionate, and cost effective manner; and the continuing need to provide for further scientific progress present grave challenges to RASIT’s medical and social initiatives for sustainable development.
+
+Despite these developments, the international community remains focused on reproductive health, neglecting other diseases that affect women exclusively and/or those which effect women more severely than men. These gaps have generated the emerging need and necessity to discuss women’s health at international and policy-making levels.
+
+Based on RASIT Executive Director HRH Dr Princess Nisreen El-Hashemite’s collective data resulted over the period of 10 years of research and studies on sex- and gender- differences in illness and health, as well as social- and political- issues concerning women and girls health programs in developed and developing countries; and per the recommendations of RASIT's associates, the Executive Board and the Board of Trustees of the Royal Academy of Science International Trust (RASIT) hereby agreed to establish the World Women’s Health and Development Forum as a Center of Excellence.
+
+The World Women’s Health and Development Forum was signed into being in 2012 as an independent international Programme of RASIT, dedicated to promoting excellence in education and science, and intent on playing an influential role in regional and international women’s and girls’ health and research policy and supports Women development in a wide range of ways.

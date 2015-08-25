@@ -1,0 +1,57 @@
+{
+  "name": "zurb-foundation.docpad",
+  "version": "0.1.0",
+  "description": "Zurb Foundation skeleton for DocPad.",
+  "homepage": "https://github.com/Clearskyabove/zurb-foundation.docpad",
+  "keywords": [
+    "docpad-skeleton",
+    "docpad",
+    "website",
+    "bootstrap",
+    "zurb foundation"
+  ],
+  "author": "Clearskyabove <us@clearskyabove.com> (http://clearskyabove.com)",
+  "maintainers": [
+    "Geert-Jan Brits <geertjan@clearksyabove.com> (https://github.com/gbrits)"
+  ],
+  "bugs": {
+    "url": "https://github.com/Clearskyabove/zurb-foundation.docpad/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clearskyabove/zurb-foundation.docpad.git"
+  },
+  "engines": {
+    "node": "0.10",
+    "npm": "1.2"
+  },
+  "dependencies": {
+    "bower": "~1.3.8",
+    "docpad": "~6.69.0",
+    "docpad-plugin-addthis": "~2.0.3",
+    "docpad-plugin-cleanurls": "~2.7.0",
+    "docpad-plugin-coffeescript": "~2.4.0",
+    "docpad-plugin-eco": "~2.0.3",
+    "docpad-plugin-facebookcomments": "~2.0.4",
+    "docpad-plugin-feedr": "~2.8.0",
+    "docpad-plugin-ghpages": "~2.4.3",
+    "docpad-plugin-gulp": "~2.1.5",
+    "docpad-plugin-highlightjs": "~2.2.2",
+    "docpad-plugin-marked": "~2.2.1",
+    "docpad-plugin-menu": "~2.1.0",
+    "docpad-plugin-nodesass": "~2.4.4",
+    "docpad-plugin-partials": "~2.9.1",
+    "docpad-plugin-related": "~2.2.2",
+    "docpad-plugin-text": "~2.3.2",
+    "gulp": "^3.8.6",
+    "gulp-concat": "^2.3.4",
+    "gulp-uglify": "^0.3.1",
+    "safeps": "~2.2.6"
+  },
+  "devDependencies": {},
+  "main": "node_modules/docpad/bin/docpad-server",
+  "scripts": {
+    "start": "node_modules/docpad/bin/docpad-server",
+    "install": "node_modules/.bin/bower install"
+  }
+}

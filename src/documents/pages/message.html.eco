@@ -1,0 +1,31 @@
+```
+title: Message from CEO
+
+layout: page
+pageOrder: 6
+includenInNavs: ["about"]
+navtitle: Message from CEO
+```
+
+<div class="row" >
+	<div class="message">
+		<img src="/images/leadeship/turkay_ufuk_eren.jpg" alt="Turkay Ufuk Eren">
+		<blockquote cite="http://en.wikiquote.org/wiki/Happiness">
+			<i>"Alteri vivas oportet, si vis tibi vivere"</i>. One must live for another if he wishes to live for himself
+			- Seneca
+		</blockquote>
+	</div>
+	<section class="small-12 large-12 columns">
+		<p>It gives me great pleasure to welcome you to the UNID International website. This website is part of the external manifestation of our commitment to transparency and open communications with all our stakeholders as well as with the wider public interested in our activities.</p>
+
+		<p>UNID’s key focus is to contribute to Sustainable Development through the growth of Science and Technology.  To achieve this UNID is creating scientific and innovative networks globally.</p>
+
+		<p>UNID will collaborate with leading scientists and technologists and academic institutions to bring the fruits of their research and development efforts closer to industries and business establishments for societal benefit.</p>
+
+		<p>As ‘sustainable development’ is crucial part of our mission, women empowerment and women health are our main activity areas. In collaboration with like-minded partners and investors, UNID proposes to establish premier Women’s Health Institute and Public Health and Biomedical Research Institute that will contribute in a significant way to the scientific and technological growth as well as to social development particularly to the welfare of women worldwide.</p>
+
+		<p>UNID operates under the firm belief that organizations should integrate business performance with sustainability and social responsibility. I look forward to detailing all these and other developments at the appropriate time, and our website will remain the ideal source of updated information.Thank you for taking time to visit the UNID website and I wholeheartedly welcome any constructive feedback you may have.</p>
+
+		<p>Turkay Ufuk Eren</p>
+	</section>
+</div>

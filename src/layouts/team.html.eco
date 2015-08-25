@@ -1,0 +1,10 @@
+---
+layout: page
+---
+<section>
+<div class="row page">
+	<div class="columns small-12 large-12">
+		<%- @content %>
+	</div>
+</div>
+</section>
